@@ -1,2 +1,2 @@
-# Phython-Basics
+# Python-Basics
 It contain some basic concepts of python code
